@@ -3,6 +3,7 @@ layout: post
 title:  "JavaScript Unit Testing with Jest"
 date:   2019-09-26 12:00:00 -0400
 categories: sfdx lwc unit test jest
+comments: true
 ---
 
 With the new Lightning Web Component framework, Salesforce included a JavaScript testing framework that blends functional and unit tests. [The Salesforce Documentation on Testing Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/lwc/testing) details how to setup this framework and write a few basic, _functional_ tests. It currently lacks examples for _unit_ testing. This guide offers a straightforward example for understanding how to write them.
