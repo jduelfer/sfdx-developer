@@ -18,8 +18,8 @@ email: jdduelfer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   First-hand developer documentation for working with Salesforce,
   mainly with the new SFDX framework.
-baseurl: "/sfdx-developer" # the subpath of your site, e.g. /blog
-url: "http://jduelfer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://sfdxdeveloper.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jduelfer
 
 # Build settings
