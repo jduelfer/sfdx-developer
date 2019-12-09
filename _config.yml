@@ -16,17 +16,22 @@
 title: SFDX Developer
 email: jdduelfer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  First-hand developer documentation for working with Salesforce,
-  mainly with the new SFDX framework.
+  Tutorials, documentation, and advice for working with Salesforce,
+  mainly within the new SFDX framework.
+tagline: "A blog dedicated to Salesforce development."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sfdxdeveloper.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jduelfer
+
+author: "Jon Duelfer"
+logo: /assets/img/logo-with-background.jpeg
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 disqusname: sfdxdeveloper
 

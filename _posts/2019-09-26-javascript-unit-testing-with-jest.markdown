@@ -2,7 +2,7 @@
 layout: post
 title:  "JavaScript Unit Testing with Jest"
 date:   2019-09-26 12:00:00 -0400
-categories: sfdx lwc unit test jest
+categories: sfdx lwc
 comments: true
 ---
 
