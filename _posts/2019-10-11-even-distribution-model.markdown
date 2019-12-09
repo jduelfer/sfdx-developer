@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Campaign Influence: Even Distribution Model"
-date:   2019-10-11 10:00:00 -0400
+date:   2019-12-09 15:00:00 -0400
 categories: marketing campaigns
 comments: true
 ---
