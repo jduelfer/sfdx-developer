@@ -34,6 +34,7 @@ plugins:
   - jekyll-seo-tag
 
 disqusname: sfdxdeveloper
+google-site-verification: 2jeILXroDADGD8XLDeRDpTBh7alibO-n2EhYFSWAjS0
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
